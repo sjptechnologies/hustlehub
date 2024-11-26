@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531641790203",
+    "project_id": "hustlehub-baba8",
+    "storage_bucket": "hustlehub-baba8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531641790203:android:d82e3b70aa52c85a614a5e",
+        "android_client_info": {
+          "package_name": "com.example.hustlehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFSxCujRjkJ5NW87IH9uz5osLgWRFP6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
